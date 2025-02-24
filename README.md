@@ -1,3 +1,5 @@
+![Description de l'image](https://github.com/AngeTia/SQLi_Scan/blob/main/Sqli_scan3.png)
+
 # SQLi Scan - Automatisation de la détection de vulnérabilités SQL
 
 SQLi Scan est un script Bash conçu pour automatiser la récupération des URLs d'un domaine à l'aide de la Wayback Machine, puis d'exécuter une détection de vulnérabilités SQL à l'aide de `sqlidetector`. Ce projet est particulièrement utile pour les pentesters et les chercheurs en sécurité qui souhaitent rapidement analyser un site pour des vulnérabilités SQL.
